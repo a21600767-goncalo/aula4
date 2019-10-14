@@ -4,8 +4,7 @@ class Main {
 
         System.out.println("teste");
         int i = 0;
-        int x;
-
+        int x = 1;
 
     }
 
