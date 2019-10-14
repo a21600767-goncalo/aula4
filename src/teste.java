@@ -3,7 +3,7 @@ class Main {
     public static void main(String[] args) {
 
         System.out.println("teste");
-        int i;
+        int i = 0;
 
 
     }
